@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Realtime Chat App",
+      "imageSrc": "projects/chat-app.png",
+      "description": "A web-based chat application using Node.js, Express, and Socket.IO for real-time messaging. Supports multiple chat rooms, live user updates, and instant communication.",
+      "skills": ["React", "Express", "Node", "Socket.IO"],
+      "demo": "https://fullstack-chat-app-2owu.onrender.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Project B",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node", "Sass"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Project C",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
+  
